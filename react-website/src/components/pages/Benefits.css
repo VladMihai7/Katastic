@@ -1,0 +1,27 @@
+
+.itemContent{
+    text-align: left;
+    color: #040404;
+    position: relative;
+    left: 100px;
+}
+.title {
+    text-align: center;
+    color: #ff3366;
+    font-size: 55px;
+    font-weight: 800;
+    letter-spacing: 5.5px;
+    line-height: 70px;
+    text-transform: uppercase;
+}
+.subTitle{
+    text-align: left;
+    color: #ff3366;
+    position: relative;
+    left: 100px;
+}
+
+.text{
+    position: relative;
+    left: 100px;
+}

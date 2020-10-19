@@ -1,0 +1,42 @@
+.background{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 0 0 20rem 0;
+}
+.title {
+    text-align: center;
+    color: #ff3366;
+    font-size: 55px;
+    font-weight: 800;
+    letter-spacing: 5.5px;
+    line-height: 70px;
+    text-transform: uppercase;
+}
+.text{
+    position: relative;
+    font-family: 'Poppins';
+    font-size: 20px;
+    letter-spacing: 1.5px;
+
+
+}
+.content{
+    margin: 12rem auto 0;
+    max-width: 1400px;
+    width: 90%;
+}
+.span{
+    color: #ff3467;
+    font-family: 'Poppins';
+    text-align: center;
+    display: block;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 1rem;
+}
+
+.bgPhoto {
+    max-width: 559px;
+    min-width: 560px;
+}

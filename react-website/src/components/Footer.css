@@ -1,0 +1,16 @@
+.footer-container {
+ background-color: hsl(0, 63%, 95%);
+ padding: 2rem 0 2rem 0;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-self: center;
+}
+.footer-title {
+    color: tomato;
+    text-align: center;
+}
+.footer-subtitle {
+    text-align: center;
+    font-size: x-large;
+}
